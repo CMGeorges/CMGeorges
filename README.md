@@ -1,6 +1,6 @@
-# Camsley Georges — Backend, API et intégrations
+# Camsley Georges — Ingénieur logiciel | Backend & intégrations
 
-Analyste-programmeur avec un portefeuille Python, .NET et JavaScript autour des API, du commerce électronique et des applications métier.
+Ingénieur logiciel orienté backend et intégration de systèmes. Conception de services Python et .NET, architecture d’API, cohérence des données et automatisation de la livraison.
 
 **Vitrine autonome :** télécharger `docs/index.html` puis l’ouvrir dans un navigateur. Elle fonctionne sans installation ni clé d’API. La publication GitHub Pages est préparée ; consulter [PUBLISHING.md](PUBLISHING.md).
 
@@ -10,7 +10,7 @@ Analyste-programmeur avec un portefeuille Python, .NET et JavaScript autour des 
 | --- | --- | --- |
 | [ecommerce-Nextjs](https://github.com/CMGeorges/ecommerce-Nextjs) | Next.js, React, Sanity et Stripe Checkout | Démonstration ; [corrections PR #1](https://github.com/CMGeorges/ecommerce-Nextjs/pull/1) |
 | [CartePro-portfolio](https://github.com/CMGeorges/CartePro-portfolio) | Flask, SQLAlchemy, cartes, QR et abonnements Stripe | Backend SaaS en développement ; [corrections PR #14](https://github.com/CMGeorges/CartePro-portfolio/pull/14) |
-| [eCommerceMicroservices](https://github.com/CMGeorges/eCommerceMicroservices) | Services clients, produits, commandes, recherche et tests | Architecture d’apprentissage ASP.NET Core |
+| [eCommerceMicroservices](https://github.com/CMGeorges/eCommerceMicroservices) | Services clients, produits, commandes, recherche et tests | Architecture microservices ASP.NET Core |
 | [Play.Inventory](https://github.com/CMGeorges/Play.Inventory) | Inventaire, client HTTP catalogue et consommateurs MassTransit | Démonstration de services événementiels |
 | [Play.Identity](https://github.com/CMGeorges/Play.Identity) | Identité, utilisateurs, rôles, IdentityServer4 | Pile historique .NET 5 à moderniser |
 | [fieldops-360](https://github.com/CMGeorges/fieldops-360) | Domaine métier et branche API / React TypeScript | Prototype, stockage en mémoire et identité simulée |
