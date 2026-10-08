@@ -1,46 +1,43 @@
-# 👋 Hi, I’m Camsley Georges
+# Camsley Georges — Backend, API et intégrations
 
-**Backend Engineer (DevOps-oriented)** with hands-on experience building, securing, testing, and deploying production-ready backend systems.
+Analyste-programmeur avec un portefeuille Python, .NET et JavaScript autour des API, du commerce électronique et des applications métier.
 
-I specialize in **Python (Flask/FastAPI)** and **.NET**, with a strong focus on API design, SQL-based systems, authentication, CI/CD automation, and cloud deployment. My work emphasizes maintainable architecture, reliability, and security.
+**Vitrine autonome :** télécharger `docs/index.html` puis l’ouvrir dans un navigateur. Elle fonctionne sans installation ni clé d’API. La publication GitHub Pages est préparée ; consulter [PUBLISHING.md](PUBLISHING.md).
 
----
+## Sélection de projets publics
 
-## 🔧 Tech Stack
-- **Languages:** Python, C#, SQL  
-- **Backend:** Flask, FastAPI, ASP.NET Core, REST APIs  
-- **Databases:** PostgreSQL, SQL Server  
-- **DevOps:** Docker, GitHub Actions (CI/CD), Jenkins  
-- **Testing:** Pytest, unit & integration testing  
-- **Cloud:** Render / cloud-based deployments  
-- **Security:** Authentication, role-based access, secrets management
+| Projet | Éléments présents dans le code | État présenté |
+| --- | --- | --- |
+| [ecommerce-Nextjs](https://github.com/CMGeorges/ecommerce-Nextjs) | Next.js, React, Sanity et Stripe Checkout | Démonstration ; [corrections PR #1](https://github.com/CMGeorges/ecommerce-Nextjs/pull/1) |
+| [CartePro-portfolio](https://github.com/CMGeorges/CartePro-portfolio) | Flask, SQLAlchemy, cartes, QR et abonnements Stripe | Backend SaaS en développement ; [corrections PR #14](https://github.com/CMGeorges/CartePro-portfolio/pull/14) |
+| [eCommerceMicroservices](https://github.com/CMGeorges/eCommerceMicroservices) | Services clients, produits, commandes, recherche et tests | Architecture d’apprentissage ASP.NET Core |
+| [Play.Inventory](https://github.com/CMGeorges/Play.Inventory) | Inventaire, client HTTP catalogue et consommateurs MassTransit | Démonstration de services événementiels |
+| [Play.Identity](https://github.com/CMGeorges/Play.Identity) | Identité, utilisateurs, rôles, IdentityServer4 | Pile historique .NET 5 à moderniser |
+| [fieldops-360](https://github.com/CMGeorges/fieldops-360) | Domaine métier et branche API / React TypeScript | Prototype, stockage en mémoire et identité simulée |
 
----
+Les corrections citées sont dans `codex/portfolio-hardening-20261008`. Les liens ne signifient pas que les pull requests sont fusionnées ou que les applications sont déployées.
 
-## 🚀 Featured Project
-### **CartePro – Backend SaaS**
-A production-oriented backend SaaS designed with real-world standards:
-- Authentication & role-based access
-- REST API with clean architecture
-- Stripe payment integration
-- Automated testing (Pytest)
-- CI/CD pipelines
-- Cloud deployment
+## Compétences illustrées
 
-🔗 Repository: https://github.com/CMGeorges-cie/CartePro-backend  
-🔗 Live API / Demo: *(if applicable)*
+- Python : Flask, FastAPI, SQLAlchemy, tests Pytest et API REST.
+- .NET : ASP.NET Core, services et consommation d’événements.
+- Commerce électronique : catalogue, panier, Stripe Checkout et synchronisation d’abonnements.
+- Livraison : Docker, GitHub Actions, configuration et séparation des secrets.
 
----
+## Valider la vitrine
 
-## 🎯 What I’m Looking For
-- Backend Engineer roles
-- Backend / DevOps-oriented positions
-- International remote opportunities
+Node.js 22 ou supérieur :
 
-I’m looking to join teams where I can contribute quickly to real systems while continuing to grow as an engineer.
+```bash
+node scripts/check-site.cjs
+```
 
----
+La CI valide la structure HTML, les liens internes, la présence de la documentation et les interactions de simulation et de filtrage. Elle fournit un artefact HTML téléchargeable. Aucun backend ou compte privé n’est embarqué dans la page.
 
-## 📫 Get in Touch
-- LinkedIn: https://www.linkedin.com/in/camsley-georges  
-- Email: camsley.m.georges@gmail.com
+## Contact
+
+- [GitHub](https://github.com/CMGeorges)
+- [LinkedIn](https://www.linkedin.com/in/camsley-georges)
+- [Courriel](mailto:camsley.m.georges@gmail.com)
+
+Sélection mise à jour le 8 octobre 2026. Les versions déployées et les réalisations commerciales doivent être documentées séparément avant d’être revendiquées.
