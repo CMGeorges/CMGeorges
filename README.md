@@ -1,10 +1,10 @@
 # Camsley Georges — Ingénieur logiciel | Backend & intégrations
 
-Ingénieur logiciel orienté backend et intégration de systèmes. Conception de services Python et .NET, architecture d’API, cohérence des données et automatisation de la livraison.
+Je suis ingénieur logiciel orienté backend et intégration de systèmes. Je conçois des services Python et .NET et je travaille sur l’architecture d’API, la cohérence des données et l’automatisation de la livraison.
 
 **Vitrine autonome :** télécharger `docs/index.html` puis l’ouvrir dans un navigateur. Elle fonctionne sans installation ni clé d’API. La publication GitHub Pages est préparée ; consulter [PUBLISHING.md](PUBLISHING.md).
 
-## Sélection de projets publics
+## Mes projets publics
 
 | Projet | Éléments présents dans le code | État présenté |
 | --- | --- | --- |
@@ -17,7 +17,7 @@ Ingénieur logiciel orienté backend et intégration de systèmes. Conception de
 
 Les corrections citées sont dans `codex/portfolio-hardening-20261008`. Les liens ne signifient pas que les pull requests sont fusionnées ou que les applications sont déployées.
 
-## Compétences illustrées
+## Mon approche technique
 
 - Python : Flask, FastAPI, SQLAlchemy, tests Pytest et API REST.
 - .NET : ASP.NET Core, services et consommation d’événements.
@@ -40,4 +40,4 @@ La CI valide la structure HTML, les liens internes, la présence de la documenta
 - [LinkedIn](https://www.linkedin.com/in/camsley-georges)
 - [Courriel](mailto:camsley.m.georges@gmail.com)
 
-Sélection mise à jour le 8 octobre 2026. Les versions déployées et les réalisations commerciales doivent être documentées séparément avant d’être revendiquées.
+Je mets à jour ce portefeuille le 8 octobre 2026. Je distingue les démonstrations, les versions déployées et les réalisations commerciales, et je fournis les preuves correspondantes.

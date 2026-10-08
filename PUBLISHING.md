@@ -1,10 +1,10 @@
-# Vitrine : usage local et GitHub Pages
+# Ma vitrine : usage local et GitHub Pages
 
 ## Montrer le livrable immédiatement
 
 Télécharger `docs/index.html` et l’ouvrir dans Safari, Chrome, Firefox ou Edge. Tout le HTML, le CSS et le JavaScript sont dans le même fichier ; aucun serveur n’est requis. Les liens GitHub, LinkedIn et courriel demandent une connexion externe, mais le contenu et la simulation fonctionnent hors ligne.
 
-La page présente six projets publics. La simulation de transfert est une illustration locale et ne fait aucun appel bancaire. Aucun dépôt privé, secret ou contenu de client n’est inclus.
+Je présente six de mes projets publics. La simulation de transfert est une illustration locale et ne fait aucun appel bancaire. Aucun dépôt privé, secret ou contenu de client n’est inclus.
 
 Le bouton « Imprimer / enregistrer en PDF » ouvre la fonction d’impression du navigateur.
 
@@ -21,7 +21,7 @@ Après examen et fusion de la pull request de vitrine :
 
 URL attendue : `https://cmgeorges.github.io/CMGeorges/`. Cette adresse est une destination prévue, pas une preuve de publication. Ne la partager qu’après une exécution réussie et une vérification du site.
 
-Le connecteur utilisé pour préparer cette livraison permet les commits et pull requests, mais n’expose pas la configuration administrative de Pages. Aucun changement de paramètres Pages n’a été effectué.
+J’ai préparé les commits et la pull request. La connexion utilisée n’expose pas la configuration administrative de Pages : je n’ai donc pas modifié ces paramètres.
 
 Alternative sans workflow de déploiement : dans Pages, sélectionner **Deploy from a branch**, branche `master`, dossier `/docs`. Le fichier `.nojekyll` évite le traitement Jekyll.
 
